@@ -28,8 +28,9 @@ while True:
 
         case 2:
             pass
-        case 3:
-            pass
+        case 0:
+            print("Bye!")
+            break
         case _:
             print("Invalid input! Try again.")
             continue
